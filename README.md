@@ -10,7 +10,7 @@
 <p align="start">
 <a href="https://github.com/adyfp24">
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adyfp24&layout=compact&langs_count=8&theme=algoli"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adyfp24&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 <!--
