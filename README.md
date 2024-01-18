@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adyfp24&show_icons=true&locale=en&layout=compact&theme=dark" alt="adyfp24" /></p>
 -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adyfp24&theme=dark" alt="adyfp24" /></p>
+
 
 <!--- 
 <div align=center>
