@@ -3,7 +3,7 @@
 
 
 
-# 💻 Languages and Tools :
+# 💻 Tech Stack :
 
 
 <p align="left> 
