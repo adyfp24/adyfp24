@@ -28,29 +28,16 @@
 # 📊 GitHub Stats
 <p align="left">
   <a href="https://github.com/adyfp24">
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adyfp24&theme=dark&hide_border=false"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adyfp24&theme=algolia&hide_border=false"/>
 </a>
 <a href="https://github.com/adyfp24">
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adyfp24&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adyfp24&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<!--
-# 📊 GitHub Stats:
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adyfp24&show_icons=true&locale=en&layout=compact&theme=dark" alt="adyfp24" /></p>
--->
 
-
-<!--- 
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=adyfp24&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
- -->
+ 
 
 
 
