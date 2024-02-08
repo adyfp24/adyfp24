@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/javascript-ccaa30?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-007FFF?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/go-00599C?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
@@ -23,6 +24,7 @@
   <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-00f?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
 # 📊 GitHub Stats :
