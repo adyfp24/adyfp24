@@ -1,5 +1,5 @@
 # 👋 Hello, I am Ady Firdaus 
-🚀 Information Techonology Student<br>🌐 Open to collaboration! Frontend? Backend? Let's explore both universes<br> 👨🏻‍💻 Still learning, Future software developer. 
+🚀 Information Techonology Student<br>🌐 Open to collaboration! Frontend? Backend? Let's explore both universes<br> 👨🏻‍💻 Still learning, future software engineer. 
 
 
 
