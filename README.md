@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/linux-525051?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-00f?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-3670A0?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-007FFF?style=for-the-badge&logo=flutter&logoColor=white"/>
