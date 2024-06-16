@@ -1,4 +1,4 @@
-# 👋 Hello, I am Ady Firdaus 
+# 👋 Hi, I am Ady Firdaus 
 🚀 Information Techonology Student<br>🌐 Open to collaboration! Frontend? Backend? Let's explore both universes<br> 👨🏻‍💻 Still learning, future software engineer. 
 
 
