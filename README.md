@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-3670A0?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-007FFF?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-4d60eb?style=for-the-badge&logo=firebase&logoColor=yellow" alt="Firebase"/>Ï
+  <img src="https://img.shields.io/badge/Firebase-F05033?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
 </p>
 
 # 📊 GitHub Stats :
