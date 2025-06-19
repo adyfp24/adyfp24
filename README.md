@@ -1,6 +1,4 @@
-<p> just an ordinary programmer 🧑🏻‍💻 </p>
 
-<!-- 
 # 👋 Hi, I am Ady Firdaus Pratama
 🚀 Information Techonology Student<br>🌐 Open to collaboration! Frontend? Backend? Let's explore both universes<br> 👨🏻‍💻 Still learning, future software engineer. 
 
@@ -41,7 +39,6 @@
 </a>
 </p>
 
--->
 
 
 
