@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Flutter-007FFF?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-F05033?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
 </p>
-
+<!--
 # 📊 GitHub Stats :
 <p align="left">
   <a href="https://github.com/adyfp24">
